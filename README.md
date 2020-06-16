@@ -6,16 +6,18 @@
 
 完成之後便能讓 GitLab 自動驗證程式了
 
+### 目錄
+---
+1. [架設 GitLab CI Runner](/step1/README.md)
+2. [連結 GitLab CI Runner](/step2/README.md)
+3. 建立 CI/CD Pipeline
+
 ### CI / CD 的目的
 ----
 在**比較小的專案中**，能持續驗證開發結果 
 
 讓開發者**減少手動的工作**  例如：**環境建置、單元測試、日誌紀錄、產品部署**
 
-### 目錄
----
-1. [架設 GitLab CI Runner](/step1/README.md)
-2. 建立 CI/CD Pipeline
 
 ### 延伸閱讀
 ----

@@ -29,4 +29,4 @@ GitLab 官方為 Runner 提供了多種安裝方式，在[官網](https://docs.g
 
     .\gitlab-runner.exe install --user ENTER-YOUR-USERNAME --password ENTER-YOUR-PASSWORD
 
-到此，Runner 的部分準備好了，但他還不知道他要去哪裡做事，因此下一步我們要把 Runner 跟我們專案連接起來。
+到此，Runner 的部分準備好了，但他還不知道他要去哪裡做事，因此[下一步](/step2/README.md)我們要把 Runner 跟我們專案連接起來。
