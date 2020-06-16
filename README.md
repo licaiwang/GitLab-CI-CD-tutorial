@@ -14,7 +14,7 @@
 
 ### 目錄
 ---
-1. 架設 GitLab CI Runner
+1. [架設 GitLab CI Runner](/step1/README.md)
 2. 建立 CI/CD Pipeline
 
 ### 延伸閱讀
