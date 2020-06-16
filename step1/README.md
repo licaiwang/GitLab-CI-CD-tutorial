@@ -16,7 +16,7 @@ GitLab 官方為 Runner 提供了多種安裝方式，在[官網](https://docs.g
 
 由於我的作業系統為 win10，於是我們到這裡來[下載](https://docs.gitlab.com/runner/install/windows.html)
 
-![download](/step1/2.jpg)
+![download](/step1/2.png)
 
 照著官網的指示，在本地端建立一個名叫 GitLab-Runner 的資料夾，把下載下來的**檔案改名為 gitlab-runner.exe** 然後丟進去
 
