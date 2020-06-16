@@ -12,6 +12,11 @@
 
 讓開發者**減少手動的工作**  例如：**環境建置、單元測試、日誌紀錄、產品部署**
 
+### 目錄
+---
+1. 架設 GitLab CI Runner
+2. 建立 CI/CD Pipeline
+
 ### 延伸閱讀
 ----
 [詳解CI、CD相關概念](https://www.itread01.com/content/1549229610.html)
