@@ -11,6 +11,7 @@
 1. [架設 GitLab CI Runner](/step1/README.md)
 2. [連結 GitLab CI Runner](/step2/README.md)
 3. [建立 CI/CD Pipeline](/step3/README.md)
+4. [在 Pipeline 中運行單元測試](/step4/README.md)
 
 ### CI / CD 的目的
 ----
