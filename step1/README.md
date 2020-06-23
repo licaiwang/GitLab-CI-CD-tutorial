@@ -1,3 +1,4 @@
+###### tags: `ci-cd tutorials`
 # 架設 GitLab CI Runner
 
 ### 什麼是 CI Runner？
@@ -8,7 +9,7 @@
 ---
 簡略的 CI 流程如下圖所示，**黑色框框**是我們平常在做的事，而我們現在要做的就是派遣一個  CI Runner 去幫你做**紫色框框**內事情
 
-![flow](/step1/1.png)
+![](https://i.imgur.com/wUtea7F.png)
 
 ### 安裝 GitLab CI Runner
 ---
@@ -16,7 +17,7 @@ GitLab 官方為 Runner 提供了多種安裝方式，在[官網](https://docs.g
 
 由於我的作業系統為 win10，於是我們到這裡來[下載](https://docs.gitlab.com/runner/install/windows.html)
 
-![download](/step1/2.png)
+![](https://i.imgur.com/AM1gPIv.png)
 
 照著官網的指示，在本地端建立一個名叫 GitLab-Runner 的資料夾，把下載下來的**檔案改名為 gitlab-runner.exe** 然後丟進去
 
