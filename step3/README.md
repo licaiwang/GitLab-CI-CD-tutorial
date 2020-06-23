@@ -35,7 +35,7 @@ GitLab CI 預設會檢查 Project 內是否含有檔名為 .**gitlab-ci.yml** �
 
     * **不受定義數量的限制，也可以自己定義名稱 (除了關鍵字外)**
         ```
-        stg_build:
+        stg-build:
           stage: build
           script: python test.py
         ```
