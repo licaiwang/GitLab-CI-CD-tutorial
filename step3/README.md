@@ -1,8 +1,8 @@
-# 撰寫 .gitlab-ci.yml 
+# 建立 CI/CD Pipeline
 ----
 GitLab CI 預設會檢查 Project 內是否含有檔名為 .**gitlab-ci.yml** 的檔案，並根據該檔案所定義的內容自動建立 CI/CD Pipeline。
 
-## 關鍵字介紹
+## 撰寫 .gitlab-ci.yml 
 ----
 **stages：**
 * stages 表示任務構建的階段。一次 pipeline 中允許定義多個 stages，這些 stages 會有以下特點：
